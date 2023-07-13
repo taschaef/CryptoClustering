@@ -70,4 +70,12 @@ In this challenge, I was aksed to use my knowledge of Python and unsupervised le
   - Answer the following question:
     - What is the impact of using fewer features to cluster the data using K-Means?
 
+# Resources 
+1. AskBCS
+2. https://realpython.com/k-means-clustering-python/
+3. https://www.w3schools.com/python/python_ml_k-means.asp
+4. hvPlot Documentation
+5. https://www.geeksforgeeks.org/principal-component-analysis-with-python/#
+6. Stack Overflow
+
 
